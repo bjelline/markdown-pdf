@@ -29,6 +29,7 @@
   "dependencies": {
     "marked": "~0.3.0",
     "phantomjs": "~1.9.1-6",
+    "wkhtmltopdf": "~0.1.4",
     "tmp": "~0.0.18",
     "commander": "^2.2.0",
     "through": "~2.3.4",
